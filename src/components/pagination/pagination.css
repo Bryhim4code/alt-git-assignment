@@ -1,0 +1,21 @@
+.pagination {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  button {
+    width: 60px;
+    padding: 10px 25px;
+    background: blue;
+    color: white;
+    border: none;
+    outline: none;
+    margin: 0 10px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease-out;
+  }
